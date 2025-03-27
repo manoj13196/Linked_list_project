@@ -1,0 +1,20 @@
+{
+  "name": "linked_list_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj13196/Linked_list_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj13196/Linked_list_project/issues"
+  },
+  "homepage": "https://github.com/manoj13196/Linked_list_project#readme"
+}
